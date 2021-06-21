@@ -41,3 +41,5 @@ const cartSlice = createSlice({
 
 export const cartActions = cartSlice.actions; //enables dispatch of actions
 export default cartSlice;
+//no http requests going to firebase
+//no side effect in reducers
