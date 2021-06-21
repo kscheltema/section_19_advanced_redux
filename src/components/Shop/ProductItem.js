@@ -36,3 +36,4 @@ const ProductItem = (props) => {
 };
 
 export default ProductItem;
+//handling database logic inside the component is possible but difficult
