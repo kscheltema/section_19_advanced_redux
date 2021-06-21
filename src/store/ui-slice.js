@@ -1,4 +1,3 @@
-import { createStore } from "redux";
 import { createSlice } from "@reduxjs/toolkit";
 
 const uiSlice = createSlice({
