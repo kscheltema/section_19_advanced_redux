@@ -82,3 +82,5 @@ export const sendCartData = (cart) => {
     }
   };
 };
+
+//redux ****dev tools**** is a similar addon to chrome for insight into redux state.
